@@ -44,6 +44,6 @@ Create an instance of DateTimepicker and add it to your page.
 
 The following gif image illustrates the result of the above code.
 
-![Set Height and Width in .NET MAUI Date Time picker.](images/getting-started/maui-date-time-picker-set-height-and-width.png)
+![Set Height and Width in .NET MAUI Date Time picker.](maui-date-time-picker-set-height-and-width.png)
 
 N> You can refer to our [.NET MAUI Date Time Picker](https://www.syncfusion.com/maui-controls/maui-datetimepicker) feature tour page for its groundbreaking feature representations. You can also explore our [.NET MAUI Date Time Picker Example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Picker/SampleBrowser.Maui.Picker/Samples/DateTimePicker/GettingStarted) that shows you how to render the Date Time Picker in .NET MAUI.
